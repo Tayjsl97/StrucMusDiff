@@ -4,3 +4,7 @@ This is the official implementation of StrucMusDiff, which is a phrase-level aut
 - Check our [demo page](https://tayjsl97.github.io/demos/tmm2) and listen!<br>
 
 <img src="img/model.png" width="700" height="300" alt="model"/><br>
+
+Here are some generated musical examples:
+
+[Example 1](https://tayjsl97.github.io/demos/tmm2/1.mp3)
