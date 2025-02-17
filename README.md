@@ -15,7 +15,7 @@ Here are some generated musical examples:<br>
         <td>
         <div style="width: 19em;text-align: center">
         <audio id="audio" controls="" preload="none">
-            <source id="mp3" src="https://github.com/Tayjsl97/StrucMusDiff/tree/main/generated%20musical%20examples/1.mp3">
+            <source id="mp3" src="[https://github.com/Tayjsl97/StrucMusDiff/tree/main/generated%20musical%20examples/1.mp3](https://github.com/Tayjsl97/StrucMusDiff/blob/main/generated%20musical%20examples/1.mp3)">
         </audio>
         </div>
         </td>
