@@ -7,4 +7,4 @@ Here are some generated musical examples:
 
 #### [Example 1](https://tayjsl97.github.io/demos/tmm2/1.mp3)
 #### [Example 2](https://tayjsl97.github.io/demos/tmm2/2.mp3)
-#### [Example 3](https://tayjsl97.github.io/demos/tmm2/3.mp3)      [Example 4](https://tayjsl97.github.io/demos/tmm2/3.mp3)
+#### [Example 3](https://tayjsl97.github.io/demos/tmm2/3.mp3)  &nbsp; &nbsp;    [Example 4](https://tayjsl97.github.io/demos/tmm2/3.mp3)
