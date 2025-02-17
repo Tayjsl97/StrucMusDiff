@@ -6,7 +6,7 @@ This is the official implementation of StrucMusDiff, which is a phrase-level aut
 Here are some generated musical examples:<br>
 
 <audio id="audio" controls="" preload="none">
-<source id="mp3" src="[https://tayjsl97.github.io/demos/aaai_music/0-Q1.mp3](https://github.com/Tayjsl97/StrucMusDiff/tree/main/generated%20musical%20examples/1.mp3)">
+<source id="mp3" src="https://github.com/Tayjsl97/StrucMusDiff/tree/main/generated_musical_examples/1.mp3">
 </audio>
 
 <table>
